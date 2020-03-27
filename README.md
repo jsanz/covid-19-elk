@@ -41,6 +41,8 @@ To import, go to `Kibana > Management > Saved Objects`, go to `Import`, select t
 
 Warning: trying to import the dashboard into a Kibana version lower than `7.6.1` can lead to unexpected results!
 
+![screenshot](https://i.imgur.com/oO5MKvT.png)
+
 ## Watchers
 
 Files: `watcher-with-country.json` and `watcher-with-province.json`
